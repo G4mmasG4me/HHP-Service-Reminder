@@ -1,0 +1,9 @@
+HotHouseProperties.code-workspace
+connect.py
+details.py
+admin.py
+email_logs.csv
+running_logs.csv
+todo.docx
+*.pyc
+lines.py
